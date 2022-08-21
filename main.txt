@@ -1,1 +1,3 @@
 main rebase
+git reset
+mysqlのパスワード：toui0125sql
